@@ -1,0 +1,23 @@
+[
+  {
+    "performance": 0.98,
+    "accessibility": 1,
+    "lcpMs": 2256.8837000000003,
+    "bytes": 221133,
+    "runtimeError": null
+  },
+  {
+    "performance": 0.98,
+    "accessibility": 1,
+    "lcpMs": 2263.3152999999998,
+    "bytes": 221133,
+    "runtimeError": null
+  },
+  {
+    "performance": 0.98,
+    "accessibility": 1,
+    "lcpMs": 2255.0096000000003,
+    "bytes": 221133,
+    "runtimeError": null
+  }
+]

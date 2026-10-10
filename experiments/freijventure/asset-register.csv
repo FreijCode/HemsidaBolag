@@ -1,0 +1,11 @@
+asset,source,license,checked_at,use,limitations
+public/garden.jpg,https://www.pexels.com/photo/plants-and-flowers-in-greenhouse-11741630/,Pexels License https://www.pexels.com/license/,2026-10-07,fiktivt koncept Form & Jord; fotograf Kseniya Kopna,inte kundarbete
+public/objects.jpg,https://www.pexels.com/photo/ceramic-vase-on-a-table-8767264/,Pexels License https://www.pexels.com/license/,2026-10-07,fiktivt koncept Atelier 04; fotograf Ron Lach,inte kundarbete
+DM Sans,@fontsource/dm-sans 5.3.0,SIL OFL 1.1,2026-10-07,självhostad font,licenses/dm-sans.txt
+Astro,astro 7.3.6,MIT,2026-10-07,byggverktyg,licenses/astro.txt
+Georgia,systemfont,ingen fontfil distribueras,2026-10-07,serif fallback,
+Norre,https://www.framer.com/marketplace/templates/norre/,Limited; endast referens,2026-10-07,visuell analys,ingen mallkod eller bild kopierad
+public/garden-600.webp,public/garden.jpg,samma licens som källbild,2026-10-10,komprimerad variant 600 px,inte kundarbete
+public/garden-1000.webp,public/garden.jpg,samma licens som källbild,2026-10-10,komprimerad variant 1000 px,inte kundarbete
+public/objects-600.webp,public/objects.jpg,samma licens som källbild,2026-10-10,komprimerad variant 600 px,inte kundarbete
+public/objects-1000.webp,public/objects.jpg,samma licens som källbild,2026-10-10,komprimerad variant 1000 px,inte kundarbete
