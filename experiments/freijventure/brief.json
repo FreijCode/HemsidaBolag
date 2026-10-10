@@ -1,0 +1,19 @@
+{
+  "company": "FreijVenture",
+  "mode": "private_review",
+  "design": "B — Framer Norré",
+  "decision": "Adam 2026-10-07: B såg professionellt ut",
+  "reference": "Norre",
+  "audience": "Mindre företag",
+  "primaryAction": "Demonstrerad kontaktväg till Adam",
+  "publicationApproved": false,
+  "factsSource": "Befintlig hemsida/index.html; inga nya kundresultat",
+  "assets": "Egna CSS-formstudier och lokala DM Sans-typsnitt",
+  "revision": "C",
+  "scope": "Separat utvecklingsförslag på branch; befintlig publicerad sida ändras inte",
+  "concepts": [
+    "Form & Jord",
+    "Atelier 04"
+  ],
+  "approval": "Adam bad uttryckligen om branch och vidareutveckling 2026-10-07; publicering kräver separat beslut"
+}

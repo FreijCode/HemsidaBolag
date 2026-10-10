@@ -1,0 +1,53 @@
+{
+  "viewports": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "anchors": true,
+      "projectsKeyboard": true,
+      "projectFilter": true,
+      "imagesLoaded": true,
+      "dialogKeyboard": true,
+      "focusRestored": true,
+      "motionPause": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "anchors": true,
+      "projectsKeyboard": true,
+      "projectFilter": true,
+      "imagesLoaded": true,
+      "dialogKeyboard": true,
+      "focusRestored": true,
+      "motionPause": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "anchors": true,
+      "projectsKeyboard": true,
+      "projectFilter": true,
+      "imagesLoaded": true,
+      "dialogKeyboard": true,
+      "focusRestored": true,
+      "motionPause": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "anchors": true,
+      "projectsKeyboard": true,
+      "projectFilter": true,
+      "imagesLoaded": true,
+      "dialogKeyboard": true,
+      "focusRestored": true,
+      "motionPause": true,
+      "reducedMotion": true
+    }
+  ],
+  "errors": []
+}
