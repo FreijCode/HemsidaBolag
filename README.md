@@ -1,9 +1,9 @@
-# FreijVenture
+# FreijVenture — förslag C
 
 GitHub Pages: https://freijcode.github.io/HemsidaBolag/
 
-Publicerad från Paperclips senaste FRE-8-designrevision, uppdaterad 11 oktober 2026.
+Bilddriven version med Form & Jord och Atelier 04. Publicerad efter användarens val av förslag C.
 
-Originalkälla: paperclip/native-data/instances/default/projects/e97e70e1-a5a4-4f00-9213-0bf67d98f9d7/bd82568b-8497-4f26-96a7-e2b27532d8c7/_default/repo-hemsida/experiments/freijventure.
+Originalkälla i Paperclips data-mapp: repo-hemsida/experiments/freijventure. Byggda filer och självhostade resurser publiceras här. Personliga kontaktuppgifter är borttagna enligt tidigare innehållsbeslut. Kontakt är en demo.
 
-Statisk webbplats. Konceptföretagen är fiktiva. Kontaktuppgifter är ännu inte aktiverade, enligt senaste innehållsrevisionen.
+Se asset-register.csv och licenses/ för bildkällor och licenser.
